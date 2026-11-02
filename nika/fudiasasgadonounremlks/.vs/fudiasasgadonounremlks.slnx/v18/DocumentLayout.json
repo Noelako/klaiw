@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "direction.cs",
+              "DocumentMoniker": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\direction.cs",
+              "RelativeDocumentMoniker": "fudiasasgadonounremlks\\direction.cs",
+              "ToolTip": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\direction.cs",
+              "RelativeToolTip": "fudiasasgadonounremlks\\direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:47:35.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coord.cs",
+              "DocumentMoniker": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs",
+              "RelativeDocumentMoniker": "fudiasasgadonounremlks\\coord.cs",
+              "ToolTip": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs",
+              "RelativeToolTip": "fudiasasgadonounremlks\\coord.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:55:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\Program.cs",
+              "RelativeDocumentMoniker": "fudiasasgadonounremlks\\Program.cs",
+              "ToolTip": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\Program.cs",
+              "RelativeToolTip": "fudiasasgadonounremlks\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:54:54.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

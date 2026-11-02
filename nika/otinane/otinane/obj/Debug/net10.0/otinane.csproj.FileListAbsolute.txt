@@ -1,0 +1,15 @@
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\bin\Debug\net10.0\otinane.exe
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\bin\Debug\net10.0\otinane.deps.json
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\bin\Debug\net10.0\otinane.runtimeconfig.json
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\bin\Debug\net10.0\otinane.dll
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\bin\Debug\net10.0\otinane.pdb
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.AssemblyInfoInputs.cache
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.AssemblyInfo.cs
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.csproj.CoreCompileInputs.cache
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.dll
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\refint\otinane.dll
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.pdb
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.genruntimeconfig.cache
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\ref\otinane.dll
+C:\Users\Praktiki3\Desktop\nika\otinane\otinane\obj\Debug\net10.0\otinane.csproj.Up2Date

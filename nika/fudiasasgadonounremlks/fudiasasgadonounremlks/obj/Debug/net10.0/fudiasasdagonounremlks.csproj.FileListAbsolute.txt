@@ -1,0 +1,15 @@
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.AssemblyInfoInputs.cache
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.AssemblyInfo.cs
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.csproj.CoreCompileInputs.cache
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\bin\Debug\net10.0\fudiasasdagonounremlks.exe
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\bin\Debug\net10.0\fudiasasdagonounremlks.deps.json
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\bin\Debug\net10.0\fudiasasdagonounremlks.runtimeconfig.json
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\bin\Debug\net10.0\fudiasasdagonounremlks.dll
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\bin\Debug\net10.0\fudiasasdagonounremlks.pdb
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.dll
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\refint\fudiasasdagonounremlks.dll
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.pdb
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasasdagonounremlks.genruntimeconfig.cache
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\ref\fudiasasdagonounremlks.dll
+C:\Users\Praktiki3\Desktop\nika\fudiasasgadonounremlks\fudiasasgadonounremlks\obj\Debug\net10.0\fudiasas.4995F2F6.Up2Date
