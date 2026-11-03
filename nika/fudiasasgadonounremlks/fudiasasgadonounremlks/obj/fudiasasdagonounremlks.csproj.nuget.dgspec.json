@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj": {}
+    "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj": {
+    "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj",
+        "projectUniqueName": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj",
         "projectName": "fudiasasdagonounremlks",
-        "projectPath": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj",
+        "projectPath": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj",
         "packagesPath": "C:\\Users\\Praktiki3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Praktiki3\\Desktop\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\obj\\",
+        "outputPath": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

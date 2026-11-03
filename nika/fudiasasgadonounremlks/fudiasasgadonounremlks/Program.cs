@@ -17,7 +17,7 @@ int tailL = 1;
 while (true)
 {
     Console.Clear();
-    Console.WriteLine("score: " + score);
+    Console.WriteLine("                 ! score: " + score+" !");
     snakePos.ApplyMove(movementdirection);
 
     for (int y = 0; y < gridDimensions.Y; y++)
@@ -28,7 +28,7 @@ while (true)
             coord currentcoord = new coord(x, y);
 
             if (snakePos.Equals(currentcoord) || snakePosH.Contains(currentcoord))
-                Console.Write("~");
+                Console.Write(snakePos.snaky);
             else if (aapple.Equals(currentcoord))
                 Console.Write("@");
             else if (x == 0 || x == gridDimensions.X - 1)

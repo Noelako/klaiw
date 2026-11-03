@@ -32,23 +32,27 @@ namespace fudiasasgadonounremlks
 
         }
 
-        
+
+        public char snaky = '$';
         public void ApplyMove(direction direction)
         {
             switch(direction)
             {
                 case direction.left:
                     x--;
+                    snaky = '~';
                     break;
                 case direction.right:
                     x++;
-                    
+                    snaky = '~';
                     break;
                 case direction.up:
                     y--;
+                    snaky = '$';
                     break;
                 case direction.down:
                     y++;
+                    snaky = '$';
                     break;
             }
         }
