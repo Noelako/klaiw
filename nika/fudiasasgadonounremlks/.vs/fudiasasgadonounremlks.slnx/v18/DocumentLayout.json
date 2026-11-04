@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|c:\\users\\praktiki3\\git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9874EF0-11FF-C604-6EDF-92233A613851}|fudiasasgadonounremlks\\fudiasasdagonounremlks.csproj|solutionrelative:fudiasasgadonounremlks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "direction.cs",
               "DocumentMoniker": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\direction.cs",
               "RelativeDocumentMoniker": "fudiasasgadonounremlks\\direction.cs",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "coord.cs",
               "DocumentMoniker": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs",
               "RelativeDocumentMoniker": "fudiasasgadonounremlks\\coord.cs",
               "ToolTip": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\coord.cs",
               "RelativeToolTip": "fudiasasgadonounremlks\\coord.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwDYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T10:55:55.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\Program.cs",
               "RelativeDocumentMoniker": "fudiasasgadonounremlks\\Program.cs",
               "ToolTip": "C:\\Users\\Praktiki3\\Git\\nika\\fudiasasgadonounremlks\\fudiasasgadonounremlks\\Program.cs",
               "RelativeToolTip": "fudiasasgadonounremlks\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T10:54:54.775Z",
               "EditorCaption": ""
