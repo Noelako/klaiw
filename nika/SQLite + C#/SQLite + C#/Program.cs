@@ -15,9 +15,7 @@ class Program
 
         string[] tables =
         {
-            "BIG_JOHN",
-            "MONSTER_JACK",
-            "QUEEN_MARIA"
+            "BIG_JOHN"
         };
 
         foreach (string table in tables)

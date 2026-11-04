@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ase mas kourastika")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b0ba7bc8a2aa2825f830d105f28de08e5da568")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae626aa680bbdb12ccd08d53dc3204d390071a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ase mas kourastika")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ase mas kourastika")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

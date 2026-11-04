@@ -41,3 +41,4 @@ C:\Users\Praktiki3\Git\nika\SQLite + C#\SQLite + C#\obj\Debug\net10.0\refint\SQL
 C:\Users\Praktiki3\Git\nika\SQLite + C#\SQLite + C#\obj\Debug\net10.0\SQLite + C#.pdb
 C:\Users\Praktiki3\Git\nika\SQLite + C#\SQLite + C#\obj\Debug\net10.0\SQLite + C#.genruntimeconfig.cache
 C:\Users\Praktiki3\Git\nika\SQLite + C#\SQLite + C#\obj\Debug\net10.0\ref\SQLite + C#.dll
+C:\Users\Praktiki3\Git\nika\SQLite + C#\SQLite + C#\bin\Debug\net10.0\Dapper.dll
